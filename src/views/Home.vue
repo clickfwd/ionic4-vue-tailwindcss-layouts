@@ -4,7 +4,7 @@
 		<ion-content padding>
 			<div class="py-4 ">
 				<div class="font-bold text-center">
-					Ionic-Vue-tailwindcss Demo
+					Ionic 4, Vue, Tailwind CSS Demo
 				</div>
 				<ion-list class="mt-6">
 					<ion-item v-for="(menu, index) in homeMenus" :key="index">

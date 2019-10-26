@@ -1,4 +1,4 @@
-# vue-app
+# Ionic 4, Vue, Tailwind CSS Demo App
 
 Live example at [https://ionic4-vue-tailwindcss.netlify.com/](https://ionic4-vue-tailwindcss.netlify.com/)
 
