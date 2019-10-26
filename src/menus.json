@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Home",
+    "path": "/",
+    "icon": "home"
+  },
+  {
+    "title": "Widgets",
+    "path": "/menu/widgets",
+    "icon": "images"
+  },
+  {
+    "title": "List",
+    "path": "/menu/list",
+    "icon": "list"
+  },
+  {
+    "title": "List Virtual",
+    "path": "/menu/list-virtual",
+    "icon": "list"
+  },
+  {
+    "title": "Card",
+    "path": "/menu/card",
+    "icon": "image"
+  },
+  {
+    "title": "Grid",
+    "path": "/menu/grid",
+    "icon": "grid"
+  },
+  {
+    "title": "Modal",
+    "path": "/menu/modal",
+    "icon": "albums"
+  }
+]
