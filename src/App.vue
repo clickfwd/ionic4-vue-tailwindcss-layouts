@@ -2,13 +2,13 @@
 	<div id="app">
 		<ion-app>
 			<sidebar-menu />
-			<ion-vue-router main :animated="false" />
+			<ion-vue-router main :animated="true" />
 		</ion-app>
 	</div>
 </template>
 
 <script>
-import SidebarMenu from '@/components/SidebarMenu'
+import SidebarMenu from '@/components/SidebarMenu';
 
 export default {
 	components: {
@@ -18,5 +18,5 @@ export default {
 	mounted() {
 		// console.log(this.$ionic)
 	},
-}
+};
 </script>
